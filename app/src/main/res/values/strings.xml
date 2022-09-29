@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">calcHEBAN</string>
+    <string name="app_copyright">Copyright HEBAN 2022/2023</string>
+    <string name="input_placeholder_value">Entrez une valeur</string>
+    <string name="radio_plus">plus</string>
+    <string name="radio_moins">moins</string>
+    <string name="radio_multiplie">multiplié</string>
+    <string name="radio_divise">divisé</string>
+    <string name="text_view_result">Résultat</string>
+    <string name="button_raz">RAZ</string>
+    <string name="button_equal">=</string>
+    <string name="button_quit">Quitter</string>
+</resources>
